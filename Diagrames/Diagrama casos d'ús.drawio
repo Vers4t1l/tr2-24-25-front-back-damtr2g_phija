@@ -85,6 +85,15 @@
         <mxCell id="VZN5SgGyRpKV9aKdYNnB-31" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Fer assignacions centre - taller,&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;donar-li&amp;nbsp; al coordinador com a sugerencia&lt;/span&gt;" vertex="1">
           <mxGeometry height="80" width="120" x="340" y="920" as="geometry" />
         </mxCell>
+        <mxCell id="VZN5SgGyRpKV9aKdYNnB-35" edge="1" parent="1" source="VZN5SgGyRpKV9aKdYNnB-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="VZN5SgGyRpKV9aKdYNnB-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VZN5SgGyRpKV9aKdYNnB-33" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Coordinador" vertex="1">
+          <mxGeometry height="60" width="30" x="720" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="VZN5SgGyRpKV9aKdYNnB-34" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Validar sugerencia, fer cambis en aquesta, notificar als centres el resultat" vertex="1">
+          <mxGeometry height="80" width="120" x="340" y="1020" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
